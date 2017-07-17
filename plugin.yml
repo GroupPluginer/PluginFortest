@@ -3,3 +3,6 @@ main: test\Main
 version: 1.0.0v
 api: 3.0.0
 author: PLUGINRmt
+commands:
+  test:
+      description: EFFECT SPEED
